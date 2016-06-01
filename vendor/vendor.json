@@ -15,10 +15,34 @@
 			"revisionTime": "2014-10-28T23:00:38Z"
 		},
 		{
+			"checksumSHA1": "+ZrZ0akpPXj7X+MEBRjc6nni2FA=",
+			"path": "github.com/ExpressenAB/oauth2_proxy",
+			"revision": "dd519564478b0728a831a1e5c7881d6bc6b7cec0",
+			"revisionTime": "2016-06-01T14:23:10Z"
+		},
+		{
 			"checksumSHA1": "1Xubth8RhnGmC3uWcEL0wVWFB6E=",
 			"path": "github.com/bitly/go-simplejson",
 			"revision": "3378bdcb5cebedcbf8b5750edee28010f128fe24",
 			"revisionTime": "2014-07-01T14:19:59Z"
+		},
+		{
+			"checksumSHA1": "YSOYgriMEWkkrDOw7z0f/JI3AgY=",
+			"path": "github.com/bitly/oauth2_proxy/api",
+			"revision": "a6311971385447e1d9e79c8fbe07bb936779e507",
+			"revisionTime": "2016-05-26T16:49:14Z"
+		},
+		{
+			"checksumSHA1": "e8x0VwzIrHmHJpDstVh0SmDT4Us=",
+			"path": "github.com/bitly/oauth2_proxy/cookie",
+			"revision": "a6311971385447e1d9e79c8fbe07bb936779e507",
+			"revisionTime": "2016-05-26T16:49:14Z"
+		},
+		{
+			"checksumSHA1": "Eqf7bIWrN1s3bfoK3Fn4PS8IydI=",
+			"path": "github.com/bitly/oauth2_proxy/providers",
+			"revision": "a6311971385447e1d9e79c8fbe07bb936779e507",
+			"revisionTime": "2016-05-26T16:49:14Z"
 		},
 		{
 			"checksumSHA1": "zUyQXVCSaV97bbiVZbX1qn8UWm4=",
